@@ -10,7 +10,7 @@ Features
 - Displays instant search results as you type
 
 
-Installation Requirements
+Necessary Installations
 -----------------------------------
 
 - Python 2.6 or Python 2.7
